@@ -12,6 +12,7 @@
       enemies for points until health reaches zero and
       game over
 
+[![CodeFactor](https://www.codefactor.io/repository/github/dmitrykonyshov/laser-defender/badge)](https://www.codefactor.io/repository/github/dmitrykonyshov/laser-defender)
 [![GitHub issues](https://img.shields.io/github/issues/DmitryKonyshov/Laser-Defender)](https://github.com/DmitryKonyshov/Laser-Defender/issues)
 [![GitHub forks](https://img.shields.io/github/forks/DmitryKonyshov/Laser-Defender)](https://github.com/DmitryKonyshov/Laser-Defender/network)
 [![GitHub stars](https://img.shields.io/github/stars/DmitryKonyshov/Laser-Defender)](https://github.com/DmitryKonyshov/Laser-Defender/stargazers)

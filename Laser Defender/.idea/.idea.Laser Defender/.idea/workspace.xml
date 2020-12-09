@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50c0bfcb-7a3f-4c7c-ab81-683f58cca19b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Laser Defender/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Laser Defender/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Laser Defender/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Laser Defender/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Laser Defender/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Laser Defender/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,10 +31,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shredder.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shredder.cs" />
       </list>
     </option>
   </component>
@@ -89,7 +92,7 @@
       <workItem from="1607263627188" duration="2222000" />
       <workItem from="1607365302170" duration="1366000" />
       <workItem from="1607540721214" duration="5000" />
-      <workItem from="1607540778122" duration="1228000" />
+      <workItem from="1607540778122" duration="1718000" />
     </task>
     <servers />
   </component>

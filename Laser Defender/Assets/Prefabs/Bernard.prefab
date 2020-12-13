@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3595039563336837238}
   - component: {fileID: 1787238187905665125}
+  - component: {fileID: -6965055914383236089}
   m_Layer: 0
   m_Name: Bernard
   m_TagString: Untagged
@@ -81,3 +82,16 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &-6965055914383236089
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3506849968320000982}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fd96f623980841f3a35317e351fcad2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  waypoints: []

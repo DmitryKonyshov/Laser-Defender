@@ -11,8 +11,7 @@ public class Player : MonoBehaviour
     [SerializeField] private float projectileFirePeriod = 0.1f;
 
     private Coroutine firingCoroutine;
-    private float xMax;
-
+    private float xMax; 
     private float xMin;
     private float yMax;
     private float yMin;

@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 3595039563336837238}
   - component: {fileID: 1787238187905665125}
   - component: {fileID: -6965055914383236089}
+  - component: {fileID: -6372257599519051356}
   m_Layer: 0
   m_Name: Bernard
   m_TagString: Untagged
@@ -95,3 +96,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   waypoints: []
+--- !u!114 &-6372257599519051356
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3506849968320000982}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79ab4f0136d634730b02f8d5dbebe9ae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 100

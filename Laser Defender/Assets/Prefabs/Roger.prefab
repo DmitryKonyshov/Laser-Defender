@@ -11,6 +11,8 @@ GameObject:
   - component: {fileID: 8421654819957591914}
   - component: {fileID: 8421654819957591909}
   - component: {fileID: 5991222456114351619}
+  - component: {fileID: 1388526584817859346}
+  - component: {fileID: 996905254}
   m_Layer: 0
   m_Name: Roger
   m_TagString: Untagged
@@ -98,3 +100,32 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+--- !u!114 &1388526584817859346
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8421654819957591908}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79ab4f0136d634730b02f8d5dbebe9ae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 100
+--- !u!58 &996905254
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8421654819957591908}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: -0.015517473}
+  serializedVersion: 2
+  m_Radius: 0.43206787

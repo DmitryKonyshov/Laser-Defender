@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e109ec0935dd8452f95a8448c52a47f3, type: 3}
-  m_Name: Wave 2
+  m_Name: Wave 4
   m_EditorClassIdentifier: 
   enemyPrefab: {fileID: 3506849968320000982, guid: 33cf98b422a024c409e89f936c3a6fb5,
     type: 3}

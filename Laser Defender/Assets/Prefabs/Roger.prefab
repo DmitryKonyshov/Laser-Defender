@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 8421654819957591909}
   - component: {fileID: 5991222456114351619}
   m_Layer: 0
-  m_Name: Enemy
+  m_Name: Roger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -94,9 +94,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3fd96f623980841f3a35317e351fcad2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waveConfig: {fileID: 11400000, guid: cb5fb0a0f6c814864a3ac1134f8eac56, type: 2}
   waypoints:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  moveSpeed: 2

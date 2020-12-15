@@ -20,13 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50c0bfcb-7a3f-4c7c-ab81-683f58cca19b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Laser Defender/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Laser Defender/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Laser Defender/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Laser Defender/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Bernard.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Bernard.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Enemy Laser.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Enemy Laser.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Player Laser.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Player Laser.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Roger.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Roger.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DamageDealer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DamageDealer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,34 +42,21 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/247BE588-F143-458B-B428-A5F53B7C1BEB/bb/1f67430d/SetupCoroutine.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DamageDealer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9577AC7A-62EF-4317-9789-031239BA8798/d5/67f28af4/IntPtr.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file:///Applications/Unity/Hub/Editor/2019.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/UIBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4CA7B14E-B797-446B-8567-5E0434BAF512/7c/fa908413/SendMouseEvents.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file:///Applications/Unity/Hub/Editor/2019.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/247BE588-F143-458B-B428-A5F53B7C1BEB/d6/d13d3f3e/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9577AC7A-62EF-4317-9789-031239BA8798/d5/67f28af4/IntPtr.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyPathing.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DamageDealer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/247BE588-F143-458B-B428-A5F53B7C1BEB/22/0eecfb00/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WaveConfig.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shredder.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/817A237D-064B-4347-A72A-677C916A1C6B/b8/9e8b9394/NativeInputSystem.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WaveConfig.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemySpawner.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/247BE588-F143-458B-B428-A5F53B7C1BEB/d6/d13d3f3e/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/247BE588-F143-458B-B428-A5F53B7C1BEB/22/0eecfb00/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file:///Applications/Unity/Hub/Editor/2019.4.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7FC75D3D-3E6E-40D0-A380-460CDB8EB3F2/cb/50b78be8/NavMesh.cs" root0="SKIP_HIGHLIGHTING" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Shredder.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/WaveConfig.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyPathing.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/EnemySpawner.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DamageDealer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
-      </list>
-    </option>
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemySpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4CA7B14E-B797-446B-8567-5E0434BAF512/7c/fa908413/SendMouseEvents.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/247BE588-F143-458B-B428-A5F53B7C1BEB/bb/1f67430d/SetupCoroutine.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1lHbF62jvrQeZmq9bkBquI9aJQO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -99,7 +84,7 @@
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="selectedOptions">
-        <set />
+        <list />
       </option>
       <method v="2" />
     </configuration>
@@ -108,7 +93,7 @@
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="selectedOptions">
-        <set />
+        <list />
       </option>
       <method v="2" />
     </configuration>
@@ -131,7 +116,8 @@
       <workItem from="1607710712032" duration="1712000" />
       <workItem from="1607861459385" duration="4302000" />
       <workItem from="1607878661247" duration="2172000" />
-      <workItem from="1607970481587" duration="2642000" />
+      <workItem from="1607970481587" duration="4160000" />
+      <workItem from="1607976690441" duration="97000" />
     </task>
     <servers />
   </component>
@@ -166,10 +152,18 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="429" y="162" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1607975565767">
+      <screen x="0" y="25" width="1440" height="801" />
+    </state>
+    <state x="429" y="162" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.25.1440.801@0.25.1440.801" timestamp="1607975565767" />
     <state x="938" y="253" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1607628453911">
       <screen x="0" y="25" width="1440" height="801" />
     </state>
     <state x="938" y="253" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.25.1440.801@0.25.1440.801" timestamp="1607628453911" />
+    <state x="479" y="293" key="Github.CreatePullRequestDialog" timestamp="1607975150499">
+      <screen x="0" y="25" width="1440" height="801" />
+    </state>
+    <state x="479" y="293" key="Github.CreatePullRequestDialog/0.25.1440.801@0.25.1440.801" timestamp="1607975150499" />
     <state width="1358" height="263" key="GridCell.Tab.0.bottom" timestamp="1607868977527">
       <screen x="0" y="25" width="1440" height="804" />
     </state>

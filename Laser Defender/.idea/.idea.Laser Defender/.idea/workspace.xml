@@ -20,11 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50c0bfcb-7a3f-4c7c-ab81-683f58cca19b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Laser Defender/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Laser Defender/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Laser Defender/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Laser Defender/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Laser Defender/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Laser Defender/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Laser Defender/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Laser Defender/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Bernard.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Bernard.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DamageDealer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DamageDealer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Roger.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Roger.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/WaveConfig.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/WaveConfig.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Visual Assets/Explosion-stars.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Visual Assets/Explosion-stars.png.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +62,13 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4CA7B14E-B797-446B-8567-5E0434BAF512/7c/fa908413/SendMouseEvents.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/247BE588-F143-458B-B428-A5F53B7C1BEB/bb/1f67430d/SetupCoroutine.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/WaveConfig.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+    </changedPaths>
+  </component>
   <component name="ProjectId" id="1lHbF62jvrQeZmq9bkBquI9aJQO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -76,6 +87,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="RoslynSettingsId" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
@@ -118,6 +130,7 @@
       <workItem from="1607878661247" duration="2172000" />
       <workItem from="1607970481587" duration="4160000" />
       <workItem from="1607976690441" duration="97000" />
+      <workItem from="1608142175021" duration="1968000" />
     </task>
     <servers />
   </component>
@@ -150,108 +163,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="429" y="162" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1607975565767">
-      <screen x="0" y="25" width="1440" height="801" />
-    </state>
-    <state x="429" y="162" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.25.1440.801@0.25.1440.801" timestamp="1607975565767" />
-    <state x="938" y="253" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1607628453911">
-      <screen x="0" y="25" width="1440" height="801" />
-    </state>
-    <state x="938" y="253" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.25.1440.801@0.25.1440.801" timestamp="1607628453911" />
-    <state x="479" y="293" key="Github.CreatePullRequestDialog" timestamp="1607975150499">
-      <screen x="0" y="25" width="1440" height="801" />
-    </state>
-    <state x="479" y="293" key="Github.CreatePullRequestDialog/0.25.1440.801@0.25.1440.801" timestamp="1607975150499" />
-    <state width="1358" height="263" key="GridCell.Tab.0.bottom" timestamp="1607868977527">
-      <screen x="0" y="25" width="1440" height="804" />
-    </state>
-    <state width="1358" height="263" key="GridCell.Tab.0.bottom/0.25.1440.801@0.25.1440.801" timestamp="1607863208814" />
-    <state width="1358" height="263" key="GridCell.Tab.0.bottom/0.25.1440.804@0.25.1440.804" timestamp="1607868977527" />
-    <state width="1358" height="263" key="GridCell.Tab.0.center" timestamp="1607868977526">
-      <screen x="0" y="25" width="1440" height="804" />
-    </state>
-    <state width="1358" height="263" key="GridCell.Tab.0.center/0.25.1440.801@0.25.1440.801" timestamp="1607863208812" />
-    <state width="1358" height="263" key="GridCell.Tab.0.center/0.25.1440.804@0.25.1440.804" timestamp="1607868977526" />
-    <state width="1358" height="263" key="GridCell.Tab.0.left" timestamp="1607868977525">
-      <screen x="0" y="25" width="1440" height="804" />
-    </state>
-    <state width="1358" height="263" key="GridCell.Tab.0.left/0.25.1440.801@0.25.1440.801" timestamp="1607863208811" />
-    <state width="1358" height="263" key="GridCell.Tab.0.left/0.25.1440.804@0.25.1440.804" timestamp="1607868977525" />
-    <state width="1358" height="263" key="GridCell.Tab.0.right" timestamp="1607868977527">
-      <screen x="0" y="25" width="1440" height="804" />
-    </state>
-    <state width="1358" height="263" key="GridCell.Tab.0.right/0.25.1440.801@0.25.1440.801" timestamp="1607863208813" />
-    <state width="1358" height="263" key="GridCell.Tab.0.right/0.25.1440.804@0.25.1440.804" timestamp="1607868977527" />
-    <state width="1358" height="263" key="GridCell.Tab.1.bottom" timestamp="1607868977531">
-      <screen x="0" y="25" width="1440" height="804" />
-    </state>
-    <state width="1358" height="263" key="GridCell.Tab.1.bottom/0.25.1440.801@0.25.1440.801" timestamp="1607863208816" />
-    <state width="1358" height="263" key="GridCell.Tab.1.bottom/0.25.1440.804@0.25.1440.804" timestamp="1607868977531" />
-    <state width="1358" height="263" key="GridCell.Tab.1.center" timestamp="1607868977530">
-      <screen x="0" y="25" width="1440" height="804" />
-    </state>
-    <state width="1358" height="263" key="GridCell.Tab.1.center/0.25.1440.801@0.25.1440.801" timestamp="1607863208815" />
-    <state width="1358" height="263" key="GridCell.Tab.1.center/0.25.1440.804@0.25.1440.804" timestamp="1607868977530" />
-    <state width="1358" height="263" key="GridCell.Tab.1.left" timestamp="1607868977529">
-      <screen x="0" y="25" width="1440" height="804" />
-    </state>
-    <state width="1358" height="263" key="GridCell.Tab.1.left/0.25.1440.801@0.25.1440.801" timestamp="1607863208814" />
-    <state width="1358" height="263" key="GridCell.Tab.1.left/0.25.1440.804@0.25.1440.804" timestamp="1607868977529" />
-    <state width="1358" height="263" key="GridCell.Tab.1.right" timestamp="1607868977530">
-      <screen x="0" y="25" width="1440" height="804" />
-    </state>
-    <state width="1358" height="263" key="GridCell.Tab.1.right/0.25.1440.801@0.25.1440.801" timestamp="1607863208815" />
-    <state width="1358" height="263" key="GridCell.Tab.1.right/0.25.1440.804@0.25.1440.804" timestamp="1607868977530" />
-    <state width="1358" height="263" key="GridCell.Tab.2.bottom" timestamp="1607868977533">
-      <screen x="0" y="25" width="1440" height="804" />
-    </state>
-    <state width="1358" height="263" key="GridCell.Tab.2.bottom/0.25.1440.801@0.25.1440.801" timestamp="1607863208819" />
-    <state width="1358" height="263" key="GridCell.Tab.2.bottom/0.25.1440.804@0.25.1440.804" timestamp="1607868977533" />
-    <state width="1358" height="263" key="GridCell.Tab.2.center" timestamp="1607868977532">
-      <screen x="0" y="25" width="1440" height="804" />
-    </state>
-    <state width="1358" height="263" key="GridCell.Tab.2.center/0.25.1440.801@0.25.1440.801" timestamp="1607863208817" />
-    <state width="1358" height="263" key="GridCell.Tab.2.center/0.25.1440.804@0.25.1440.804" timestamp="1607868977532" />
-    <state width="1358" height="263" key="GridCell.Tab.2.left" timestamp="1607868977531">
-      <screen x="0" y="25" width="1440" height="804" />
-    </state>
-    <state width="1358" height="263" key="GridCell.Tab.2.left/0.25.1440.801@0.25.1440.801" timestamp="1607863208817" />
-    <state width="1358" height="263" key="GridCell.Tab.2.left/0.25.1440.804@0.25.1440.804" timestamp="1607868977531" />
-    <state width="1358" height="263" key="GridCell.Tab.2.right" timestamp="1607868977533">
-      <screen x="0" y="25" width="1440" height="804" />
-    </state>
-    <state width="1358" height="263" key="GridCell.Tab.2.right/0.25.1440.801@0.25.1440.801" timestamp="1607863208818" />
-    <state width="1358" height="263" key="GridCell.Tab.2.right/0.25.1440.804@0.25.1440.804" timestamp="1607868977533" />
-    <state width="1358" height="263" key="GridCell.Tab.3.bottom" timestamp="1607868977535">
-      <screen x="0" y="25" width="1440" height="804" />
-    </state>
-    <state width="1358" height="263" key="GridCell.Tab.3.bottom/0.25.1440.801@0.25.1440.801" timestamp="1607863208821" />
-    <state width="1358" height="263" key="GridCell.Tab.3.bottom/0.25.1440.804@0.25.1440.804" timestamp="1607868977535" />
-    <state width="1358" height="263" key="GridCell.Tab.3.center" timestamp="1607868977534">
-      <screen x="0" y="25" width="1440" height="804" />
-    </state>
-    <state width="1358" height="263" key="GridCell.Tab.3.center/0.25.1440.801@0.25.1440.801" timestamp="1607863208820" />
-    <state width="1358" height="263" key="GridCell.Tab.3.center/0.25.1440.804@0.25.1440.804" timestamp="1607868977534" />
-    <state width="1358" height="263" key="GridCell.Tab.3.left" timestamp="1607868977534">
-      <screen x="0" y="25" width="1440" height="804" />
-    </state>
-    <state width="1358" height="263" key="GridCell.Tab.3.left/0.25.1440.801@0.25.1440.801" timestamp="1607863208819" />
-    <state width="1358" height="263" key="GridCell.Tab.3.left/0.25.1440.804@0.25.1440.804" timestamp="1607868977534" />
-    <state width="1358" height="263" key="GridCell.Tab.3.right" timestamp="1607868977535">
-      <screen x="0" y="25" width="1440" height="804" />
-    </state>
-    <state width="1358" height="263" key="GridCell.Tab.3.right/0.25.1440.801@0.25.1440.801" timestamp="1607863208820" />
-    <state width="1358" height="263" key="GridCell.Tab.3.right/0.25.1440.804@0.25.1440.804" timestamp="1607868977535" />
-    <state x="942" y="133" key="RiderGenerateDialog" timestamp="1607365986393">
-      <screen x="0" y="25" width="1440" height="804" />
-    </state>
-    <state x="942" y="133" key="RiderGenerateDialog/0.25.1440.804@0.25.1440.804" timestamp="1607365986393" />
-    <state x="240" y="125" width="1200" height="557" key="VCS.FileHistoryDialog" timestamp="1607863767460">
-      <screen x="0" y="25" width="1440" height="801" />
-    </state>
-    <state x="240" y="125" width="1200" height="557" key="VCS.FileHistoryDialog/0.25.1440.801@0.25.1440.801" timestamp="1607863767460" />
-    <state x="240" y="125" width="1200" height="559" key="VCS.FileHistoryDialog/0.25.1440.804@0.25.1440.804" timestamp="1607265812473" />
   </component>
 </project>

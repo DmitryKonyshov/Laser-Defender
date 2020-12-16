@@ -57,6 +57,7 @@ public class Player : MonoBehaviour
         if (Input.GetButtonUp("Fire1")) StopCoroutine(firingCoroutine);
     }
 
+    // ReSharper disable Unity.PerformanceAnalysis
     private IEnumerator FireContinuously()
     {
         while (true)

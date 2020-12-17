@@ -8,11 +8,15 @@ public class Player : MonoBehaviour
     [SerializeField] private float moveSpeed = 10f;
     [SerializeField] private float padding = 1f;
     [SerializeField] private int health = 200;
+    [SerializeField] private AudioClip deathSound;
+    [SerializeField] [Range(0, 1)]private float deathSoundVolume = 0.75f;
+    [SerializeField] private AudioClip shootSound;
+    [SerializeField] [Range(0, 1)] private float shootSoundVolume = 0.25f;
     [Header("Projectile")]
     [SerializeField] private GameObject laserPrefab;
     [SerializeField] private float projectileSpeed = 10f;
     [SerializeField] private float projectileFirePeriod = 0.1f;
-
+    
     private Coroutine firingCoroutine;
     private float xMax; 
     private float xMin;
@@ -46,8 +50,14 @@ public class Player : MonoBehaviour
         damageDealer.Hit();
         if (health <= 0)
         {
-            Destroy(gameObject);
+            Die();
         }
+    }
+
+    private void Die()
+    {
+        Destroy(gameObject);
+        AudioSource.PlayClipAtPoint(deathSound, Camera.main.transform.position, deathSoundVolume);
     }
 
     private void Fire()
@@ -56,14 +66,14 @@ public class Player : MonoBehaviour
 
         if (Input.GetButtonUp("Fire1")) StopCoroutine(firingCoroutine);
     }
-
-    // ReSharper disable Unity.PerformanceAnalysis
+    
     private IEnumerator FireContinuously()
     {
         while (true)
         {
             var laser = Instantiate(laserPrefab, transform.position, Quaternion.identity);
             laser.GetComponent<Rigidbody2D>().velocity = new Vector2(0, projectileSpeed);
+            AudioSource.PlayClipAtPoint(shootSound, Camera.main.transform.position, shootSoundVolume);
             yield return new WaitForSeconds(projectileFirePeriod);
         }
     }
